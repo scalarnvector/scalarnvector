@@ -9,12 +9,12 @@
 A student learning Computer Science with a strong interest in hardware and games<br>
 也在努力学习中文🌏
 </p>
+
 <p align="center">
   <a href="https://blog.naver.com/0factorial">
    <img src="https://img.shields.io/badge/SEO's_Blog-4B275F?style=for-the-badge&logo=ghost&logoColor=white">
   </a>
 </p>
----
 
 ## Interested in
 - System Engineering
