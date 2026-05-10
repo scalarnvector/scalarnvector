@@ -11,7 +11,7 @@ A student learning Computer Science with a strong interest in hardware and games
 </p>
 <p align="center">
   <a href="https://blog.naver.com/0factorial">
-    <img src="https://img.shields.io/badge/JINSEO_LOG-2b2d42?style=for-the-badge&logo=gamejolt&logoColor=f8f32b">
+   <img src="https://img.shields.io/badge/DEV_LOG-4B275F?style=for-the-badge&logo=ghost&logoColor=white">
   </a>
 </p>
 ---
