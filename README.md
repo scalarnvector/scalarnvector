@@ -1,8 +1,13 @@
 <h1 align="center">SEO's Archive 📦</h1>
 
 <p align="center">
-Learning, troubleshooting, and creating things.<br>
-正在学习中文 🌏
+  <img width="734" height="196" alt="trio" src="https://github.com/user-attachments/assets/a0c2d886-c5b4-4e0b-bb6f-ab2cf2bc3971" />
+</p>
+
+
+<p align="center">
+A student learning Computer Science with a strong interest in hardware and games<br>
+也在努力学习中文🌏
 </p>
 
 ---
@@ -22,6 +27,4 @@ Learning, troubleshooting, and creating things.<br>
 
 🎮 Fan of Undertale, Deltarune, Hollow Knight, and Silksong
 
-<p align="center">
-  <img width="700" alt="trio" src="https://github.com/user-attachments/assets/ea112a9b-7a36-41ab-8bc1-e0404c455d5b" />
-</p>
+
