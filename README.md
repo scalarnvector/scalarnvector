@@ -6,7 +6,7 @@
 
 
 <p align="center">
-A student learning Computer Science with a strong interest in hardware and games<br>
+I’m a Computer Science student with a strong interest in hardware and games<br>
 </p>
 
 <p align="center">
