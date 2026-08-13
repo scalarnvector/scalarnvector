@@ -20,7 +20,8 @@ I’m a Computer Science student with a strong interest in hardware and games<br
 - Linux
 - Game Development
 - Embedded Systems
-
+- Computer Networks
+ 
 ## Currently Learning
 - ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
